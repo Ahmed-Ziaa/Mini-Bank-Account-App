@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+C:\Users\Student\source\repos\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+C:\Users\Student\source\repos\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+C:\Users\Student\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Form1.resources
+C:\Users\Student\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Properties.Resources.resources
+C:\Users\Student\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+C:\Users\Student\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
+C:\Users\Student\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe.config
